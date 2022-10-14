@@ -7,7 +7,7 @@ module.exports = {
     // geralmente trabalha com nomenclatura 
     fontSize:{
       xs:14,
-      small:16,
+      sm:16,
       md:18,
       lg:20,
       xl:24,
