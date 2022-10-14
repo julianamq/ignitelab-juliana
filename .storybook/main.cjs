@@ -18,7 +18,7 @@ module.exports = {
   },
   "viteFinal": (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/ignitelab-juliana/'
+      config.base = '/igniteLabJuliana/'
     }
 
     return config;
