@@ -7,7 +7,7 @@ export default {
     component: Checkbox,
     args: {}, 
     argTypes:{},
-    //decorators vai colocar tipo o texto para "Lembrar de mim por 30 dias"
+    //decorators vai colocar o texto 
     decorators: [
         (Story) => {
             return (
